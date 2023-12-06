@@ -1,9 +1,9 @@
-function addNumbers (num1, num2){
+function subtractNumbers (num1, num2){
   let sum = num1-num2 ;
   return sum;
 }
 
-let result = addNumbers(5,2)
+let result = subtractNumbers(5,2)
 console.log(result)
 
 let result2 = result*3
